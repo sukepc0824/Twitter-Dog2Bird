@@ -1,0 +1,21 @@
+a[href$="/home"] svg.r-1cvl2hr.r-4qtqp9.r-yyyyoo.r-16y2uox.r-8kz0gk.r-dnmrzs.r-bnwqim.r-1plcrui.r-lrvibr.r-lrsllp path {
+    visibility: hidden;
+}
+
+a[href$="/home"] svg.r-1cvl2hr.r-4qtqp9.r-yyyyoo.r-16y2uox.r-8kz0gk.r-dnmrzs.r-bnwqim.r-1plcrui.r-lrvibr.r-lrsllp {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 56%;
+}
+
+div[aria-label="Loading…"] svg path {
+    visibility: hidden;
+}
+
+div[aria-label="Loading…"] svg {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 86%;
+}

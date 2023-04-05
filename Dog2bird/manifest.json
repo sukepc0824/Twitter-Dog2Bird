@@ -1,6 +1,6 @@
 {
     "name": "Dog2Bird",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "manifest_version": 3,
     "description": "Twitterのイッヌを小屋に帰します。鳥が来ます。",
     "content_scripts": [

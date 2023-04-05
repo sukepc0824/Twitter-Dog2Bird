@@ -1,21 +1,10 @@
-a[href$="/home"] svg.r-4qtqp9.r-yyyyoo.r-16y2uox.r-8kz0gk.r-dnmrzs.r-bnwqim.r-1plcrui.r-lrvibr.r-lrsllp path {
+:is(svg.r-13v1u17, div[aria-label="Loading…"] svg) path {
     visibility: hidden;
 }
 
-a[href$="/home"] svg.r-4qtqp9.r-yyyyoo.r-16y2uox.r-8kz0gk.r-dnmrzs.r-bnwqim.r-1plcrui.r-lrvibr.r-lrsllp {
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg");
+:is(svg.r-13v1u17, div[aria-label="Loading…"] svg) {
+    background-image: url('data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZpZXdCb3g9IjAgMCAyNCAyNCIgYXJpYS1oaWRkZW49InRydWUiPjxnPjxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik0yMy42NDMgNC45MzdjLS44MzUuMzctMS43MzIuNjItMi42NzUuNzMzLjk2Mi0uNTc2IDEuNy0xLjQ5IDIuMDQ4LTIuNTc4LS45LjUzNC0xLjg5Ny45MjItMi45NTggMS4xMy0uODUtLjkwNC0yLjA2LTEuNDctMy40LTEuNDctMi41NzIgMC00LjY1OCAyLjA4Ni00LjY1OCA0LjY2IDAgLjM2NC4wNDIuNzE4LjEyIDEuMDYtMy44NzMtLjE5NS03LjMwNC0yLjA1LTkuNjAyLTQuODY4LS40LjY5LS42MyAxLjQ5LS42MyAyLjM0MiAwIDEuNjE2LjgyMyAzLjA0MyAyLjA3MiAzLjg3OC0uNzY0LS4wMjUtMS40ODItLjIzNC0yLjExLS41ODN2LjA2YzAgMi4yNTcgMS42MDUgNC4xNCAzLjczNyA0LjU2OC0uMzkyLjEwNi0uODAzLjE2Mi0xLjIyNy4xNjItLjMgMC0uNTkzLS4wMjgtLjg3Ny0uMDgyLjU5MyAxLjg1IDIuMzEzIDMuMTk4IDQuMzUyIDMuMjM0LTEuNTk1IDEuMjUtMy42MDQgMS45OTUtNS43ODYgMS45OTUtLjM3NiAwLS43NDctLjAyMi0xLjExMi0uMDY1IDIuMDYyIDEuMzIzIDQuNTEgMi4wOTMgNy4xNCAyLjA5MyA4LjU3IDAgMTMuMjU1LTcuMDk4IDEzLjI1NS0xMy4yNTQgMC0uMi0uMDA1LS40MDItLjAxNC0uNjAyLjkxLS42NTggMS43LTEuNDc3IDIuMzIzLTIuNDF6Ij48L3BhdGg+PC9nPjwvc3ZnPg==');
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 56%;
-}
-
-div[aria-label="Loading…"] svg path {
-    visibility: hidden;
-}
-
-div[aria-label="Loading…"] svg {
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: 86%;
+    background-size: contain;
 }

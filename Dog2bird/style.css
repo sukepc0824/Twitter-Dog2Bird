@@ -1,8 +1,8 @@
-a[href$="/home"] svg.r-4qtqp9.r-yyyyoo.r-16y2uox.r-8kz0gk.r-dnmrzs.r-bnwqim.r-1plcrui.r-lrvibr.r-lrsllp path {
+a[aria-label$="Twitter"] svg path {
     visibility: hidden;
 }
 
-a[href$="/home"] svg.r-4qtqp9.r-yyyyoo.r-16y2uox.r-8kz0gk.r-dnmrzs.r-bnwqim.r-1plcrui.r-lrvibr.r-lrsllp {
+a[aria-label$="Twitter"] svg{
     background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg");
     background-repeat: no-repeat;
     background-position: center center;
